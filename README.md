@@ -2,7 +2,7 @@
 
 A modern, responsive community portal built with Next.js that allows users to share posts, vote on content, and engage with a community — all without requiring a backend database.
 
-![CommunityHub Screenshot](assets/dashboard.png)
+![CommunityHub Screenshot](Images/dashboard.png)
 
 ---
 
@@ -94,11 +94,11 @@ Users can browse posts, vote, and interact.
 
 **Text Post:**
 
-![Text Post Modal](assets/Text%20post.png)
+![Text Post Modal](Images/Text%20post.png)
 
 **Link Post:**
 
-![Link Post Modal](assets/Link%20Post.png)
+![Link Post Modal](Images/Link%20Post.png)
 
 ---
 
@@ -106,19 +106,19 @@ Users can browse posts, vote, and interact.
 
 Track stats and moderate content.
 
-![Admin Panel](assets/admin%20dashboard.png)
+![Admin Panel](Images/admin%20dashboard.png)
 
 ---
 
 ### 🔐 Login Page
 
-![Login Page](assets/login.png)
+![Login Page](Images/login.png)
 
 ---
 
 ### 🧾 Signup Page
 
-![Signup Page](assets/signup.png)
+![Signup Page](Images/signup.png)
 
 ---
 
