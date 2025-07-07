@@ -86,7 +86,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Users can browse posts, vote, and interact.
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
