@@ -1,6 +1,6 @@
 # CommunityHub - Reddit-Style Community Portal
 
-A modern, responsive community portal built with Next.js that allows users to share posts, vote on content, and engage with a community — all without requiring a backend database.
+A modern, responsive community portal built with Next.js that allows users to share posts, vote on content, and engage with a community.
 
 ![CommunityHub Screenshot](Images/dashboard.png)
 
@@ -171,4 +171,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👥 Author
 
 **Yugm Patel** – [GitHub](https://github.com/YugmPatel)
-📧 [yugm1213@gmail.com](mailto:yugm1213@gmail.com)
